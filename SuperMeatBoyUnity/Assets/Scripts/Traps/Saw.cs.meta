@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69513d81069d90347a2702389d1f6f46
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SawSomeBlood: {fileID: 1800531029, guid: 93f4e7cc81c81264ca6c35b57c815350, type: 3}
+  - SawMoreBlood: {fileID: 1121385367, guid: 93f4e7cc81c81264ca6c35b57c815350, type: 3}
+  - SawMaxBlood: {fileID: -1986083454, guid: 93f4e7cc81c81264ca6c35b57c815350, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

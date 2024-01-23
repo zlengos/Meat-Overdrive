@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Death
+  - Eart
+  - Blood
+  - Saw
+  - Background
+  - BreakingBlock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - WallFloor
+  - Water
+  - UI
+  - Eart
+  - Blood
+  - Saw
+  - Invise
+  - Background
+  - Decor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2580111323
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Decor
+    uniqueID: 3443257019
+    locked: 0
